@@ -1,8 +1,8 @@
 <h2>Hi there! 👋</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dotsushant/)
-[![GitHub](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=000&style=for-the-badge)](https://github.com/dotsushant#gh-dark-mode-only) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/dotsushant#gh-light-mode-only)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/iamsushantk/)
+[![GitHub](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=000&style=for-the-badge)](https://github.com/iamsushantk#gh-dark-mode-only) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/iamsushantk#gh-light-mode-only)
 
 My name is Sushant and I am a passionate and results-driven Full Stack Software Engineer.
 
